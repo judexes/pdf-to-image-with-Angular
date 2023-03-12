@@ -21,7 +21,7 @@
     "@angular/router": "~11.2.8",
     "@ng-bootstrap/ng-bootstrap": "^9.1.2",
     "bootstrap": "^5.0.1",
-    "cropperjs": "^1.5.11",
+    "cropperjs": "^1.5.13",
     "font-awesome": "^4.7.0",
     "html2canvas": "^1.0.0-rc.1",
     "jquery": "^3.6.0",
